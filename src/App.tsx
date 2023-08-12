@@ -39,6 +39,12 @@ function App() {
               <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
           </Box>
+          <Box>
+              <StyledBtn as={Link} href={"yandex.ru"}>LinkComponent</StyledBtn>
+              <StyledBtn as="a" href={"yandex.ru"}>link</StyledBtn>
+              <StyledBtn>Hello</StyledBtn>
+              <SuperButton>Super Button</SuperButton>
+          </Box>
       </div>
   );
 }
