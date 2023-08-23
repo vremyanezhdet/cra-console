@@ -11,6 +11,7 @@ function App() {
             <li><a href="">Menu Item 2</a></li>
             <li><a href="">Menu Item 3</a></li>
               <li><a href="">Menu Item 4</a></li>
+              <li><a href="">Menu Item 5</a></li>
           </ul>
         </Menu>
         <Box>
@@ -25,6 +26,12 @@ function App() {
               <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
           </Box>
+
+          export const Footer = () => {
+          return (
+              <Footer/>
+          )
+      }
 
 
       </div>
