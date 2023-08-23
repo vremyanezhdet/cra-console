@@ -12,6 +12,7 @@ function App() {
             <li><a href="">Menu Item 3</a></li>
               <li><a href="">Menu Item 4</a></li>
               <li><a href="">Menu Item 5</a></li>
+              <li><a href="">Menu Item 6</a></li>
           </ul>
         </Menu>
         <Box>
