@@ -21,6 +21,7 @@ function App() {
           <StyledBtn>Hello</StyledBtn>
           <SuperButton>Super Button</SuperButton>
             <SuperButton>Super Button</SuperButton>
+            <SuperButton>Super Button</SuperButton>
         </Box>
           <Box>
               <StyledBtn as={Link} href={"yandex.ru"}>LinkComponent</StyledBtn>
