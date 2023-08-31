@@ -35,6 +35,7 @@ function App() {
               <StyledBtn>Hello</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
+              <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
           </Box>
 
