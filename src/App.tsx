@@ -33,6 +33,7 @@ function App() {
               <StyledBtn as="a" href={"yandex.ru"}>link</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
+              <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
           </Box>
 
