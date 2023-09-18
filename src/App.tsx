@@ -8,13 +8,7 @@ function App() {
         <Menu>
           <ul>
             <li><a href="">Menu Item 1</a></li>
-            <li><a href="">Menu Item 2</a></li>
-            <li><a href="">Menu Item 3</a></li>
-              <li><a href="">Menu Item 4</a></li>
-              <li><a href="">Menu Item 5</a></li>
-              <li><a href="">Menu Item 6</a></li>
-              <li><a href="">Menu Item 7</a></li>
-              <li><a href="">Menu Item 7</a></li>
+
 
 
           </ul>
@@ -24,17 +18,11 @@ function App() {
           <StyledBtn as="a" href={"yandex.ru"}>link</StyledBtn>
           <StyledBtn>Hello</StyledBtn>
           <SuperButton>Super Button</SuperButton>
-            <SuperButton>Super Button</SuperButton>
-            <SuperButton>Super Button</SuperButton>
-            <SuperButton>Super Button</SuperButton>
+
         </Box>
           <Box>
               <StyledBtn as={Link} href={"yandex.ru"}>LinkComponent</StyledBtn>
               <StyledBtn as="a" href={"yandex.ru"}>link</StyledBtn>
-              <StyledBtn>Hello</StyledBtn>
-              <StyledBtn>Hello</StyledBtn>
-              <StyledBtn>Hello</StyledBtn>
-              <StyledBtn>Hello</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
           </Box>
