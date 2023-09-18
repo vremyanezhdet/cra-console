@@ -25,6 +25,7 @@ function App() {
               <StyledBtn as="a" href={"yandex.ru"}>link</StyledBtn>
               <StyledBtn>Hello</StyledBtn>
               <SuperButton>Super Button</SuperButton>
+              <SuperButton>Super Button</SuperButton>
           </Box>
 
           export const Footer = () => {
