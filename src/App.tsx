@@ -27,6 +27,7 @@ function App() {
               <SuperButton>Super Button</SuperButton>
               <SuperButton>Super Button</SuperButton>
               <SuperButton>Super Button</SuperButton>
+              <SuperButton>Super Button</SuperButton>
           </Box>
 
           export const Footer = () => {
